@@ -1,0 +1,7 @@
+{
+  "tool": "xray_vault",
+  "arguments": {
+    "vault": "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61",
+    "amountUsdc": "1"
+  }
+}
